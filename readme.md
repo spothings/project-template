@@ -1,6 +1,6 @@
 <p align="center"><a href="https://spothings.github.io" target="_blank"><img src="https://raw.githubusercontent.com/spothings/spothings.github.io/master/public/asset/img/spothings.png" width="200"></a></p>
 <h3 align="center">spothings</h3>
-<p align="center">make everything automatic and make things easier</p>
+<p align="center">Make everything automatic and make things easier.</p>
 
 ---
 
@@ -12,5 +12,8 @@ Spothings is an organization working on Internet of Things projects. Most of the
 - pcb : used to store schematic or PCB design file abaut the project if your project have PCB design.
 - src : used to store source code file abaut the project, we recommend you to open your IDE from here.
 
+## Contributor
+[![Contributors](https://contributors-img.web.app/image?repo=spothings/spothings)](https://github.com/spothings/spothings/graphs/contributors)
+
 ## Donation
-For those of you who want to make a donation, we would really appreciate it. Donations can be made through [PayPal](https://paypal.me/bukanspot).
+For those of you who want to make a donation, we would really appreciate it. Donations can be made through [Buy Me a Coffee](https://www.buymeacoffee.com/bukanspot) and [PayPal](https://paypal.me/bukanspot).
