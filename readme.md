@@ -16,4 +16,6 @@ Spothings is an organization working on Internet of Things projects. Most of the
 [![Contributors](https://contributors-img.web.app/image?repo=spothings/spothings)](https://github.com/spothings/spothings/graphs/contributors)
 
 ## Donation
-For those of you who want to make a donation, we would really appreciate it. Donations can be made through [Buy Me a Coffee](https://www.buymeacoffee.com/bukanspot) and [PayPal](https://paypal.me/bukanspot).
+For those of you who want to make a donation, we would really appreciate it. 
+
+Donations can be made through [Buy Me a Coffee](https://www.buymeacoffee.com/bukanspot) and [PayPal](https://paypal.me/bukanspot).
