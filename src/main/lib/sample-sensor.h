@@ -1,6 +1,6 @@
-// this just example, you can delete me if not used
+// this is example for file library, you can delete me if not used
 
-int SampleSensor(){
+int SampleSensor(int _value){
      // do something
-     return 0;
+     return _value;
 }
